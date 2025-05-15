@@ -1,0 +1,9 @@
+# config.yaml
+# URL Solana RPC эндпоинта
+rpc_url: "https://api.mainnet-beta.solana.com"
+
+# Список адресов кошельков для проверки баланса
+wallets:
+  - "9iD1LM1wQ7zPhZ1LnYUyPBgvKW3d3TvDTBR3ZU4HHLhb"
+  - "JBZqsAU2ajShkCHFKhyG6Q9QmfaJapNozXE7D751KoBH"
+  - "Ao2ZZJ58MN2zQyRxG8oGNPzuQ4wL3GQF49GdUWBnrVUt"
